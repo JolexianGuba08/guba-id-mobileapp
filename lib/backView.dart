@@ -14,11 +14,11 @@ class backView extends StatefulWidget {
 
 class _backViewState extends State<backView> {
   final String type = 'B';
-  final String birthDate = '06/07/2002';
-  final String contactPerson = 'ARTHUR A. CATUBIG';
-  final String address1 = 'MACTAN COUNTRY HOMES SUBDIVISION';
-  final String address2 = 'TIMPOLOK, BABAG, LAPU-LAPU CITY';
-  final String contactNumber = '09329777179';
+  final String birthDate = '06/08/2002';
+  final String contactPerson = 'ALEXANDER GUBA ';
+  final String address1 = 'KAMANGGAHAN 1';
+  final String address2 = 'PAJO LAPU-LAPU CITY';
+  final String contactNumber = '09553411930';
 
   final String issuedDate = '10/12/2021';
   final String validDate = '10/12/2025';

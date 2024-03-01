@@ -13,9 +13,9 @@ class frontView extends StatefulWidget {
 }
 
 class _FrontViewState extends State<frontView> {
-  final String name = 'KIAN JUNE B. CATUBIG';
+  final String name = 'JOLEXIAN R. GUBA';
   final String course = 'BSIT';
-  final String idNum = '1313343';
+  final String idNum = '1313328';
 
   @override
   Widget build(BuildContext context) {
@@ -103,7 +103,7 @@ class _FrontViewState extends State<frontView> {
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     Image(
-                      image: AssetImage('assets/2BY2.jpg'),
+                      image: AssetImage('assets/2BY2.jpeg'),
                       width: 200.0,
                       height: 250.0,
                     ),
